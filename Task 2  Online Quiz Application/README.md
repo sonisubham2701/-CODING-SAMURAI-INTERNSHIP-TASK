@@ -34,12 +34,12 @@ The quiz app features dynamic questions, a countdown timer for each question, pr
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/sonisubham2701/CODING-SAMURAI-INTERNSHIP-TASK.git
+   git clone https://github.com/sonisubham2701/-CODING-SAMURAI-INTERNSHIP-TASK.git
    ```
 
 2. **Navigate to the project folder**:
    ```bash
-   cd CODING-SAMURAI-INTERNSHIP-TASK
+   cd -CODING-SAMURAI-INTERNSHIP-TASK
    ```
 
 3. **Open and run the project**:
@@ -64,7 +64,7 @@ The quiz app features dynamic questions, a countdown timer for each question, pr
 ## 🔗 GitHub Repository
 
 For more details, you can check the source code and output images in the GitHub repository:
-- [SmartPick Quiz App on GitHub](https://github.com/pritish9156/CODING-SAMURAI-INTERNSHIP-TASK)
+- [SmartPick Quiz App on GitHub](https://github.com/sonisubham2701/-CODING-SAMURAI-INTERNSHIP-TASK)
 
 ## 🤝 Contributing
 
